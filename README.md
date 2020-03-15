@@ -1,13 +1,12 @@
 # Queuing_Theory2019
 Implementing different queuing models in c
 
-=====================================================================================================================================
+
     				CONSOLE APPLICATION
-=====================================================================================================================================
 
 HEADER FILES INCLUDED IN THE APPLICATION:
 
-  #include<bits/stdc++.h>
+  	#include<bits/stdc++.h>
 
 
 =====================================================================================================================================
@@ -15,12 +14,12 @@ USER DEFINED FUNCTION IMPLEMENTED IN THE APPLICATION:
 
 FUNCTIONS USED IN MAIN FILE :
 
-double max_find(double ,double ) :----------------------------------------This utility function is used to find the maximum of two doubles.
-double poisson_distributed_random_variables(double) :---------------------This function is used to generate poisson distributed random varibles.
-double exponentially_distributed_random_variables(double) :---------------This function is used to generate exponentially distributed random varibles.
-void case_A(double ,double ,int ) :---------------------------------------This function is used to implement the case A of the problem.
-void case_B(double ,double ,int ) :---------------------------------------This function is used to implement the case B of the problem.
-void case_C(double ,double ,int ) :---------------------------------------This function is used to implement the case C of the problem.
+	double max_find(double ,double ) :----------------------------------------This utility function is used to find the maximum of two doubles.
+	double poisson_distributed_random_variables(double) :---------------------This function is used to generate poisson distributed random varibles.
+	double exponentially_distributed_random_variables(double) :---------------This function is used to generate exponentially distributed random varibles.
+	void case_A(double ,double ,int ) :---------------------------------------This function is used to implement the case A of the problem.
+	void case_B(double ,double ,int ) :---------------------------------------This function is used to implement the case B of the problem.
+	void case_C(double ,double ,int ) :---------------------------------------This function is used to implement the case C of the problem.
 
 
 ----------------------------------------------------------------------------------------------------------------------------
